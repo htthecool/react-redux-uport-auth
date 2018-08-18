@@ -1,7 +1,6 @@
 # react-redux-uport-auth
-Authentication Boilerplate connected to a test Uport App 
 
-This is a React-Uport based authentication boilerplate app. It's built using truffle box "react-auth".
+This is a React-Uport based authentication boilerplate app. It's built using truffle box "react-uport" (https://truffleframework.com/boxes/react-uport).
 
 Pre-requisites: 
 1. Node.js (v10.8.0)
