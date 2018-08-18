@@ -3,8 +3,9 @@
 This is a React-Uport based authentication boilerplate app. It's built using truffle box "react-uport" (https://truffleframework.com/boxes/react-uport).
 
 Pre-requisites: 
-1. Node.js (v10.8.0)
+1. node.js (v10.8.0)
 2. npm (v6.2.0)
+3. truffle (v4.1.13)
 3. Metamask 
 
 Steps to install:
